@@ -1,11 +1,10 @@
 ## PROGRAMA 6
 
-#Escribir varias veces printf() para
-#   1. Mostrar operaciones de operadores aritméticos
-#   2. Mostrar op de operadores lógicos de python con valores booleanos
-#   3. Mostrar op de operadores de comparación de python con valores de booleanos y/o nº#
+# Cambiar grados en Fahrenheit a Celsius
+# Fórmula: 	(32 °F − 32) × 5 / 9 = 0 °C
 
-# Practicar operadores en Python y mostrar resultado con varios print()
+fahr = float(input("Introduce grado en Fahrenheit: "))
 
-a = 5
-b = 10
+cel = (fahr - 32) * 5 / 9
+
+print("En Caelsius es: ", cel)
