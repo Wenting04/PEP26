@@ -3,7 +3,7 @@
 # Debe recibir nº bytes y mostrar por pantalla cuantos GBytes, MBytes, Kbytes y Bytes son
 # En decimal y  binario
 
-# Unidad        Sistema decimal (SI)    Sistema binario
+# Unidad        Sistema decimal (SI)    Sistema binario (EIC)
 # 1KB / KiB     --> 1.000 bytes         --> 1.024 bytes
 # 1MB / MiB     --> 1.000 KB            --> 1.024 MiB
 # 1GB / GiB     --> 1.000 MB            --> 1.024 GiB
