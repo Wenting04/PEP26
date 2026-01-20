@@ -1,0 +1,8 @@
+Entrar al contenedor y usar sqlplus interno:
+
+
+docker exec -it mysql bash
+
+sqlplus system@FREE
+
+sqlplus sys as sysdba

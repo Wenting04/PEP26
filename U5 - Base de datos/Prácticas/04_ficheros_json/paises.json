@@ -1,0 +1,5 @@
+[
+  { "nombre": "Japón", "continente": "Asia", "poblacion": 125.7 },
+  { "nombre": "Canadá", "continente": "América", "poblacion": 38.2 },
+  { "nombre": "España", "continente": "Europa", "poblacion": 48.0 }
+]
